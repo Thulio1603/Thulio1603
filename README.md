@@ -15,6 +15,6 @@ I am part of the Uol Play squad, where I am developing their new web platform us
 
 <div>
 <a href="https://github.com/Thulio1603">
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Thulio1603&layout=compact&langs_count=7&theme=highcontrast"/>
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Thulio1603&show_icons=true&theme=highcontrast&include_all_commits=true&count_private=true"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Thulio1603&layout=compact&langs_count=7&theme=default"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Thulio1603&show_icons=true&theme=default&include_all_commits=true&count_private=true"/>
 </div>
